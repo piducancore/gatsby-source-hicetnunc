@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-hicetnunc",
+  "description": "This plugin turns your created and collected hic et nunc OBJKTs into Gatsby nodes.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "@piducancore",
+  "homepage": "https://github.com/piducancore/gatsby-source-hicetnunc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piducancore/gatsby-source-hicetnunc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/piducancore/gatsby-source-hicetnunc/issues"
+  },
+  "peerDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
